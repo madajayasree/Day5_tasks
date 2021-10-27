@@ -1,0 +1,6 @@
+D:\JAYASREE\c#programs\Armstrong\armstrong\armstrong\bin\Debug\armstrong.exe.config
+D:\JAYASREE\c#programs\Armstrong\armstrong\armstrong\bin\Debug\armstrong.exe
+D:\JAYASREE\c#programs\Armstrong\armstrong\armstrong\bin\Debug\armstrong.pdb
+D:\JAYASREE\c#programs\Armstrong\armstrong\armstrong\obj\Debug\armstrong.csproj.CoreCompileInputs.cache
+D:\JAYASREE\c#programs\Armstrong\armstrong\armstrong\obj\Debug\armstrong.exe
+D:\JAYASREE\c#programs\Armstrong\armstrong\armstrong\obj\Debug\armstrong.pdb

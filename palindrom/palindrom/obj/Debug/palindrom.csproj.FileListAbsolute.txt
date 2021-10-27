@@ -1,0 +1,6 @@
+D:\JAYASREE\c#programs\Palindrom\palindrom\palindrom\bin\Debug\palindrom.exe.config
+D:\JAYASREE\c#programs\Palindrom\palindrom\palindrom\bin\Debug\palindrom.exe
+D:\JAYASREE\c#programs\Palindrom\palindrom\palindrom\bin\Debug\palindrom.pdb
+D:\JAYASREE\c#programs\Palindrom\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+D:\JAYASREE\c#programs\Palindrom\palindrom\palindrom\obj\Debug\palindrom.exe
+D:\JAYASREE\c#programs\Palindrom\palindrom\palindrom\obj\Debug\palindrom.pdb

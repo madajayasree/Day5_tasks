@@ -1,0 +1,7 @@
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\obj\Debug\StrongNumber.csproj.AssemblyReference.cache
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\obj\Debug\StrongNumber.csproj.CoreCompileInputs.cache
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\bin\Debug\StrongNumber.exe.config
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\bin\Debug\StrongNumber.exe
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\bin\Debug\StrongNumber.pdb
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\obj\Debug\StrongNumber.exe
+D:\JAYASREE\c#programs\strongNumber\StrongNumber\StrongNumber\obj\Debug\StrongNumber.pdb
